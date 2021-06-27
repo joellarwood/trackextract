@@ -1,0 +1,20 @@
+Package: trackextract
+Title: Extract Samples from Audio Files in R
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Joel",
+           family = "Larwood",
+           role = c("aut", "cre"),
+           email = "jlarwood95@gmail.com",
+           comment = c(ORCID = "0000-0002-4522-6447"))
+Description:  Generates either gated or set length excerpts from audio files. 
+    Searches through directories and categorises exported files according to existing file structure.
+    Built on top of TuneR
+License: use_mit_licence()
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Imports: 
+  tuneR,
+  stringr
