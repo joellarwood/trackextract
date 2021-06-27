@@ -74,17 +74,17 @@ This code would return the following in the working directory:
 | | | +-- audio_file_2.mp3
 | + outputs
 | | +-- category1
-| | | +--10000-10250-audio_file_1.mp3
-| | | +--10000-10500-audio_file_1.mp3
-| | | +--10000-10750-audio_file_1.mp3
-| | | +--10000-11000-audio_file_1.mp3
-| | | +--10000-11250-audio_file_1.mp3
+| | | +--10000-10250-audio_file_1.wav
+| | | +--10000-10500-audio_file_1.wav
+| | | +--10000-10750-audio_file_1.wav
+| | | +--10000-11000-audio_file_1.wav
+| | | +--10000-11250-audio_file_1.wav
 | | +-- category2
-| | | +--10000-10250-audio_file_2.mp3
-| | | +--10000-10500-audio_file_2.mp3
-| | | +--10000-10750-audio_file_2.mp3
-| | | +--10000-11000-audio_file_2.mp3
-| | | +--10000-11250-audio_file_2.mp3
+| | | +--10000-10250-audio_file_2.wav
+| | | +--10000-10500-audio_file_2.wav
+| | | +--10000-10750-audio_file_2.wav
+| | | +--10000-11000-audio_file_2.wav
+| | | +--10000-11250-audio_file_2.wav
 ```
 
 
